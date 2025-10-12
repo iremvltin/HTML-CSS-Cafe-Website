@@ -76,12 +76,13 @@ body{
     display: inline-block;
     width: 83%;
     height: 100vh;
-    background-image: url('image/sunrise-sip.png-min.png');
+    background-image: url('image/sunrise-sip.jpg');
     background-size: cover; 
     background-position: center; 
     background-repeat: no-repeat;
     position: relative;
 }
+
 
 
 

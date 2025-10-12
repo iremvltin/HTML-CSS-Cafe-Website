@@ -1,0 +1,119 @@
+body{
+    margin:0%;
+    padding:0%;
+    display: flex;
+}
+#left-bar{
+    width: 17%;
+    height: 100vh;
+    background-color: #2F5149;
+    color:#F1F2EB;
+    display: inline-block;
+}
+
+#icon1{
+    display: block;
+    margin-top: 20%;
+    margin-right: auto;
+    margin-bottom: 15%;
+    margin-left: auto;
+    font-size: 200%;
+}
+
+#left-bar >ul{
+    padding-left: 5%;
+}
+
+#left-bar > ul > li{
+    list-style: none;
+    padding-top: 3%;
+    padding-bottom: 5%;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: italic;
+    font-size: x-large;
+}
+
+#left-bar > ul > li > a:link{
+    color:#F1F2EB;
+    text-decoration: none;
+}
+
+#left-bar > ul > li > a:hover{
+    color:#F1F2EB;
+    text-decoration: none;
+    font-size: 120%;
+    transition: 0.4s;
+}
+
+#left-bar > ul > li > a:visited{
+    color:#F1F2EB;
+    text-decoration: none;
+}
+
+#social-media > a:link{
+    display: inline-block;
+    font-size:large;
+    margin-top: 5%;
+    padding-left: 5%;
+    padding-top: 2%;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #F1F2EB;
+    text-decoration:none;
+}
+
+#social-media > a:hover{
+    color:beige;
+    font-size: 120%;
+    transition: 0.2s;
+}
+
+#social-media > a:visited{
+    color:#F1F2EB;
+}
+
+#menu{
+    display: inline-block;
+    width: 83%;
+    height: 100vh;
+    background-color:#BBC4BB;
+
+}
+
+#menu>h1{
+    text-align: center;
+    color: #2E2222;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 40px;
+}
+
+
+#menu>div{
+    display: inline-block;
+    width:28%;
+    height: 75vh;
+    background-color: #F1F2EB;
+    margin-left: 2%;
+    padding-left: 2%;
+    vertical-align: top;
+    color: #40201C;
+    border-radius: 10px;
+}
+
+#menu>div>h2{
+    text-align: center;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+}
+
+#menu > div > ul >li{
+    list-style-type:" ☆ ";
+    font-size: 20px;
+    margin-bottom: 20px;
+    font-family:'Times New Roman', Times, serif;
+
+}
+
+
+
+
+

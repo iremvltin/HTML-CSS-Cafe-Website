@@ -5,7 +5,6 @@ This is a simple two-page website for a cafe, built with HTML and CSS.
 ## Features
 - Home page with cafe photo and sidebar menu
 - Menu page with cafe menu items
-- Responsive design
 - Links to social media pages
 
 ## How to View

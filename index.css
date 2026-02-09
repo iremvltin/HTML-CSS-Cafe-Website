@@ -21,32 +21,32 @@ body{
     font-size: 200%;
 }
 
-#left-bar >ul{
-    padding-left: 5%;
+#left-bar >nav >ul{
+    padding-left: 7%;
 }
 
-#left-bar > ul > li{
+#left-bar > nav > ul > li{
     list-style: none;
     padding-top: 3%;
     padding-bottom: 5%;
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-style: italic;
-    font-size: x-large;
+    font-size: 160%;
 }
 
-#left-bar > ul > li > a:link{
+#left-bar > nav > ul > li > a:link{
     color:#F1F2EB;
     text-decoration: none;
 }
 
-#left-bar > ul > li > a:hover{
+#left-bar > nav > ul > li > a:hover{
     color:#F1F2EB;
     text-decoration: none;
     font-size: 120%;
     transition: 0.4s;
 }
 
-#left-bar > ul > li > a:visited{
+#left-bar > nav > ul > li > a:visited{
     color:#F1F2EB;
     text-decoration: none;
 }
@@ -76,15 +76,11 @@ body{
     display: inline-block;
     width: 83%;
     height: 100vh;
-    background-image: url('image/sunrise-sip.jpg');
+    background-image: url('images/sunrise-sip.jpg');
     background-size: cover; 
     background-position: center; 
     background-repeat: no-repeat;
     position: relative;
 }
-
-
-
-
 
 
